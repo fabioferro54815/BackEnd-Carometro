@@ -1,0 +1,14 @@
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\bin\Debug\netcoreapp2.1\Senai.Carometro.WebApi.deps.json
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\bin\Debug\netcoreapp2.1\Senai.Carometro.WebApi.runtimeconfig.json
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\bin\Debug\netcoreapp2.1\Senai.Carometro.WebApi.runtimeconfig.dev.json
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\bin\Debug\netcoreapp2.1\Senai.Carometro.WebApi.dll
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.csprojAssemblyReference.cache
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.RazorAssemblyInfo.cache
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.RazorAssemblyInfo.cs
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.AssemblyInfoInputs.cache
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.AssemblyInfo.cs
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\bin\Debug\netcoreapp2.1\Senai.Carometro.WebApi.pdb
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.dll
+C:\Users\39298212810\Desktop\Carometro-BackEnd\Senai.Carometro.WebApi\Senai.Carometro.WebApi\obj\Debug\netcoreapp2.1\Senai.Carometro.WebApi.pdb
